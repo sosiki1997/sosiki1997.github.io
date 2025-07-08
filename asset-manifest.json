@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c7b09ac.css",
-    "main.js": "/static/js/main.a12d2d00.js",
+    "main.css": "/static/css/main.40280312.css",
+    "main.js": "/static/js/main.cc8e13ba.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.b097f914.chunk.js": "/static/js/64.b097f914.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -12,26 +12,26 @@
     "static/media/vid2promptLogo.png": "/static/media/vid2promptLogo.119c9c3a5ccf178392ea.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/databricksLogo.png": "/static/media/databricksLogo.42857c89322d9271202d.png",
     "static/media/aiToolLogo.png": "/static/media/aiToolLogo.1456d4e9806e7d7d5793.png",
     "static/media/financial_logo_placeholder.png": "/static/media/financial_logo_placeholder.eb0ad3695b11eb258756.png",
+    "static/media/awsLogo.png": "/static/media/awsLogo.b1702ebe9788510886a1.png",
+    "static/media/databricksLogo.png": "/static/media/databricksLogo.2bb0facd77294ef5e231.png",
     "static/media/self_learning_logo.png": "/static/media/self_learning_logo.25b3c08e3f4acfbadb37.png",
     "static/media/instagrabberLogo.png": "/static/media/instagrabberLogo.75e0546a6b5abe4c0506.png",
+    "static/media/azureLogo.png": "/static/media/azureLogo.4613cb3ef968ae6a438c.png",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/resume.pdf": "/static/media/resume.f0f733dd3cd732b39262.pdf",
-    "static/media/awsLogo.svg": "/static/media/awsLogo.5eee25337e94bf53ee118efa23598036.svg",
     "static/media/segmentfaultLogo.svg": "/static/media/segmentfaultLogo.d865fc97a2e96746bd42e238fd333961.svg",
     "index.html": "/index.html",
-    "static/media/azureLogo.svg": "/static/media/azureLogo.fd7d797ad3df67ebe8dfa87293a8bf6f.svg",
-    "main.4c7b09ac.css.map": "/static/css/main.4c7b09ac.css.map",
-    "main.a12d2d00.js.map": "/static/js/main.a12d2d00.js.map",
+    "main.40280312.css.map": "/static/css/main.40280312.css.map",
+    "main.cc8e13ba.js.map": "/static/js/main.cc8e13ba.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.b097f914.chunk.js.map": "/static/js/64.b097f914.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
     "769.290e634a.chunk.js.map": "/static/js/769.290e634a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c7b09ac.css",
-    "static/js/main.a12d2d00.js"
+    "static/css/main.40280312.css",
+    "static/js/main.cc8e13ba.js"
   ]
 }
